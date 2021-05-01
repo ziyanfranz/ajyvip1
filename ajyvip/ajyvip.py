@@ -89,11 +89,10 @@ def menu():
 
  elif pilih =="2":
       os.system("clear")
-      os.system("msfconsole")
+      arya(" SEGERA ADA...")
 
  elif pilih =="3":
        os.system("clear")
-       os.system("cd dark_spam")
        os.system("python dark_brutal.py")
 
  elif pilih =="4":
